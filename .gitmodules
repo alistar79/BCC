@@ -1,0 +1,15 @@
+[submodule "webserver/wordpress"]
+	path = webserver/wordpress
+	url = git@github.com:jonhadfield/puppet-wordpress.git
+[submodule "webserver/apache"]
+	path = webserver/apache
+	url = git@github.com:example42/puppet-apache.git
+[submodule "webserver/php"]
+	path = webserver/php
+	url = git@github.com:example42/puppet-php.git
+[submodule "webserver/mysql"]
+	path = webserver/mysql
+	url = git@github.com:example42/puppet-mysql.git
+[submodule "webserver/postfix"]
+	path = webserver/postfix
+	url = git@github.com:example42/puppet-postfix.git
